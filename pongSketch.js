@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(700, 600);
     paddle1 = new Paddle(30, 40, 10, 90);
     paddle2 = new Paddle(680, 250, 10, 90)
   }
